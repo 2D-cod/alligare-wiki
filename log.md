@@ -16,3 +16,6 @@
 - Página atualizada: precificacao-alligare (condições gerais, garantia, desconto, monitoramento).
 - Finanças pessoais (carro, financiamento) não entraram: pela regra do SCHEMA, ficam só no dossiê.
 - Números de custo/lucro marcados [A VALIDAR]. Lint não rodado (sem Python no PC nesta sessão).
+
+## [2026-11-24] create | Guia rápido: como gravar na memória central
+- Cria ops/guia-como-gravar-na-memoria.md com os 3 níveis de gravação e o que não funciona.

@@ -33,6 +33,7 @@
 ## Queries
 
 ## Ops
+- [[guia-como-gravar-na-memoria]] - Como gravar na memória central: 3 níveis (celular, Claude Desktop, CLI), o que falar e o que não funciona.
 - [[alligare-skills-planejadas]] - Skills planejadas para a Alligare: Desenho segundo skills-como-licoes-codificadas: SKILL.md curto + scripts + lessons.md.
 - [[cadencia-semanal]] - Cadência: o que roda sozinho: Tarefas agendadas no Hermes . Regra: nada de relatório longo sem decisão no fim.
 - [[equipe-de-agentes-alligare]] - Equipe de agentes da Alligare (proposta): Inspirada em meta-harness-empresa-de-agentes, mas leve: papéis = skills + tarefas agendadas no próprio Hermes,
