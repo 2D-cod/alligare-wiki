@@ -3,7 +3,7 @@ title: Guia rápido: como gravar na memória central (3 níveis)
 created: 2026-11-24
 updated: 2026-11-24
 type: summary
-tags: [wiki, processos, segundo-brain, hermes, obsidian]
+tags: [wiki, obsidian, hermes]
 sources:
 confidence: high
 ---
@@ -41,5 +41,5 @@ Rode o terminal dentro de `C:\Obsidian\AlligareWiki` + digite `claude` ou `gemin
 
 ## Regra de ouro
 Se é importante para a Alligare → vai para o Obsidian (PC ou celular). Sem isso, o Hermes não
-"descobre" automaticamente entre conversas. Veja também [[segundo-cerebro-4cs]] e
-[[roteiro-de-implantacao]].
+"descobre" automaticamente entre conversas. Veja também [[segundo-cerebro-4cs]],
+[[roteiro-de-implantacao]] e [[passo-a-passo-obsidian]].

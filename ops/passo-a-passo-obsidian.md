@@ -56,6 +56,7 @@ Sucesso = as duas notas aparecem do outro lado em menos de 1 a 2 minutos (Git: d
 - Gravar `WIKI_PATH` e `OBSIDIAN_VAULT_PATH` no `.env` (aprovação pendente; a skill `alligare-wiki` funciona sem isso).
 - Criar `humano/` (notas suas, só leitura para o agente) e `privado/`. Hoje valem só como regra escrita; o bloqueio real exige configurar montagens do Docker fora do servidor ([[controle-de-acesso-ao-vault]]).
 - Testar o Telegram e trocar as tarefas agendadas para entregar lá ([[cadencia-semanal]]).
+- Como gravar o que você aprende em em qualquer app direto na memória: [[guia-como-gravar-na-memoria]].
 
 ## Se algo der errado
 - Conflito de Git: não apague nada; peça ao Hermes para mostrar `git status` e resolver com você.
