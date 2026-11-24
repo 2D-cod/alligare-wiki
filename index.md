@@ -1,14 +1,18 @@
 # Wiki Index
 
 > Catálogo. Toda página listada com uma linha. Leia este arquivo primeiro.
-> Last updated: 2026-11-23 | Total pages: 23
+> Last updated: 2026-11-24 | Total pages: 27
 
 ## Entities
+- [[cliente-cristiano-ayres]] - Cliente Cristiano Ayres: proposta de segurança Inteligente + Face ID, R$ 162 mil até 28/11/2026, escopo, custos e pendências
 - [[alligare]] - Alligare: Integradora de infraestrutura de TI, segurança eletrônica e automação . Sócios: Adleniel 45%, Anderson 45%, Jé
 - [[hermes-no-vault]] - Hermes e as conexões do vault: Hermes Agent no desktop do Adleniel, perfil default. Conexões em 2026-11-23:
 - [[paperclip]] - Paperclip: Meta-harness open source para orquestrar agentes como empresa . Roda na porta 3100; instalação por 2 comandos 
 
 ## Concepts
+- [[business-plan-2027]] - Business Plan 2027: 3 prioridades, camadas de atenção, uso do seguro da van, gatilhos de freio e ritos
+- [[novas-frentes-alligare]] - Novas frentes: chalé/Construtech, China (Arthur), hub EV e monitoramento 24h, cada uma com teste e critério
+- [[propostas-smart-life]] - Propostas Smart Life: Nathalia, Pedro, July, Bia, Rodrigo, Alexsandro (escopo e condições)
 - [[controle-de-acesso-ao-vault]] - Controle de acesso do agente ao vault: Ideia do vídeo : o agente não precisa ver o vault inteiro. Separar notas humanas e notas de IA dentro do mesmo
 - [[guardrails-para-agentes]] - Guardrails para agentes: Agentes de código tendem a ler variáveis de ambiente, apagar pastas ou obedecer instruções escondidas em e-mai
 - [[memoria-interna-com-hooks]] - Memória que evolui com a conversa (hooks): Variante do padrao-llm-wiki para dados internos: em vez de artigos da internet, a fonte são as conversas com o

@@ -10,3 +10,9 @@
 - Transcritos (STT): Tina Huang (Obsidian em 24 min), Cole Medin (memória com hooks; modelos de decisão x2; skill de edição de vídeo), NetworkChuck (Paperclip), plugin de agentes no Obsidian. Vídeo dos 4 Cs: só metadados.
 - Snapshot do dossiê em raw/articles/dossie-alligare-2026-11.md.
 - Páginas criadas: 23 (ver index.md).
+
+## [2026-11-24] create | Conversa Claude (Cowork): Cristiano, plano 2027, frentes, Smart Life
+- Páginas criadas: cliente-cristiano-ayres, business-plan-2027, novas-frentes-alligare, propostas-smart-life.
+- Página atualizada: precificacao-alligare (condições gerais, garantia, desconto, monitoramento).
+- Finanças pessoais (carro, financiamento) não entraram: pela regra do SCHEMA, ficam só no dossiê.
+- Números de custo/lucro marcados [A VALIDAR]. Lint não rodado (sem Python no PC nesta sessão).
